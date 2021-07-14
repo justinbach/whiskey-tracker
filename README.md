@@ -33,6 +33,7 @@ In rough order of priority (note that this list is itself WIP):
 - [ ] Create search and search results page route and placeholder
 - [ ] Create add new bottle page route and placeholder
 - [ ] Create record new notes page route and placeholder
+- [ ] Create pipeline for deployment to S3 and CloudFront
 - [ ] Set up Amazon Cognito
 - [ ] Add auth guards to logged-in pages
 - [ ] Add more tasks re: API capabilities and interactivity
